@@ -11,6 +11,7 @@ window.Config = {
     'm793676894-705353a412a9daf528710e75',/*Peace-twikoo */
     'm793676885-b133ec6f0dcfa21d2fe8e224',/*Peace-9fl.net */
     'm793676897-1b69639f85d8412a8301734d',/*Peace-qexo */
+    'm793676979-bd63d394c5383870032b1f33',/*Peace-alist */
   ],
 
   // 日志天数
