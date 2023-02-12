@@ -7,11 +7,11 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'm793676888-5fb37cbe869a8130bdb629bf',/*Peace-blog */
-    'm793676893-f91c45ad291326f8087841ba',/*Peace-GR */
     'm793676894-705353a412a9daf528710e75',/*Peace-twikoo */
     'm793676885-b133ec6f0dcfa21d2fe8e224',/*Peace-9fl.net */
     'm793676897-1b69639f85d8412a8301734d',/*Peace-qexo */
     'm793676979-0182f1fdadb768f99368263b',/*Peace-alist */
+    'm793699396-f6200fa187fa15e63ce69420',/*Peace-daohangye*/
   ],
 
   // 日志天数
