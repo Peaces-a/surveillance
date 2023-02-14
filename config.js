@@ -24,7 +24,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://9fl.net/'
+      url: 'https://www.ssnur.com/'
     },
     {
       text: 'GitHub',
