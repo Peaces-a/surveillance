@@ -8,7 +8,7 @@ window.Config = {
   ApiKeys: [
     'm793676888-5fb37cbe869a8130bdb629bf',/*Peace-blog */
     'm793676894-705353a412a9daf528710e75',/*Peace-twikoo */
-    'm793676885-b133ec6f0dcfa21d2fe8e224',/*Peace-9fl.net */
+    'm793711608-68268be13d1420cd3b11027a',/*Peace-yindao */
     'm793676897-1b69639f85d8412a8301734d',/*Peace-qexo */
     'm793676979-0182f1fdadb768f99368263b',/*Peace-alist */
     'm793699396-f6200fa187fa15e63ce69420',/*Peace-daohangye*/
